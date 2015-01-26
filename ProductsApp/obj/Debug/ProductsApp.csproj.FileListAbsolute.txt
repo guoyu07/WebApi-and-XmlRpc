@@ -14,3 +14,19 @@ C:\Users\Developer\Documents\GitHub\Visual Studio 2013\Projects\ProductsApp\Prod
 C:\Users\Developer\Documents\GitHub\Visual Studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
 C:\Users\Developer\Documents\GitHub\Visual Studio 2013\Projects\ProductsApp\ProductsApp\bin\CookComputing.XmlRpcServerV2.dll
 C:\Users\Developer\Documents\GitHub\Visual Studio 2013\Projects\ProductsApp\ProductsApp\bin\CookComputing.XmlRpcV2.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\ProductsApp.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\ProductsApp.pdb
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\CookComputing.XmlRpcServerV2.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\CookComputing.XmlRpcV2.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\System.Web.Http.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\System.Web.Http.xml
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\mlazarides\Documents\GitHub\WebApi-and-XmlRpc\ProductsApp\obj\Debug\ProductsApp.pdb
